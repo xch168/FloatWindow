@@ -33,6 +33,7 @@ android {
 
 dependencies {
     implementation project(path: ':library')
+//    implementation 'io.github.xch168:float-window:0.0.1'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
